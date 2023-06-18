@@ -2,9 +2,8 @@
 
 iCalendar/RFC5545 file format library for Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Shinmera/iclendar.git   |
-| commit  | 2e74a0a  |
-| systems | iclendar |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://github.com/Shinmera/iclendar.git |
+| commit  | ee32622                                      |
+| systems | iclendar                                     |
+|---------+----------------------------------------------|
